@@ -48,8 +48,6 @@ This project was very helpful as it served as a reminder of some CSS styling att
 
 I would really like to refine my use of Flexbox. I've noticed that it is a really useful tool to have in my front-end toolbox as it solved one major problem i encountered while completing this project. So I would like to learn how to use it better
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 
 ## Author
 
